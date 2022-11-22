@@ -100,7 +100,7 @@ text-align: center;
    
    button:hover span:nth-child(1) {
     left: 100%;
-    transition: 0.7s;
+    transition: 2s;
    }
    
    button span:nth-child(3) {
@@ -113,8 +113,8 @@ text-align: center;
    
    button:hover span:nth-child(3) {
     right: 100%;
-    transition: 0.7s;
-    transition-delay: 0.35s;
+    transition: 2s;
+    transition-delay: 2s;
    }
    
    button span:nth-child(2) {
@@ -127,8 +127,8 @@ text-align: center;
    
    button:hover span:nth-child(2) {
     top: 100%;
-    transition: 0.7s;
-    transition-delay: 0.17s;
+    transition: 2s;
+    transition-delay: 2s;
    }
    
    button span:nth-child(4) {
